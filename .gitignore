@@ -1,0 +1,15 @@
+# Dataset files
+spam.csv
+SMSSpamCollection
+readme
+
+# Generated plots
+*.png
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
